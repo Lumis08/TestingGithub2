@@ -14,5 +14,6 @@ class kkk : AppCompatActivity() {
         //wto watch the moon
         //bye
         //the end ady
+        //hello
     }
 }
