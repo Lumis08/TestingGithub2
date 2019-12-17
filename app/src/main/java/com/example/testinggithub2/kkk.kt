@@ -8,12 +8,12 @@ class kkk : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_xxx)
 
-        // Halooooooo
-        // from
-        //Shu Rong
-        //Bye bye
-        //lets gooo
-        //hahaaha
-        //oh gosh
+        // One Day
+        //There is a wolverine
+        //gather all his buddy
+        //wto watch the moon
+        //bye
+        //the end ady
+        //hello
     }
 }
