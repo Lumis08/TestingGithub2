@@ -12,11 +12,8 @@ class kkk : AppCompatActivity() {
         // from
         //Shu Rong
         //Bye bye
-        //yesss
-        //nooo
-        //111111
-        //fxxk
-        //you
+        //lets gooo
         //hahaaha
+        //oh gosh
     }
 }
