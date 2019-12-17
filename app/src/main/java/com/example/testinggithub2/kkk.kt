@@ -13,5 +13,7 @@ class kkk : AppCompatActivity(){
         //Shu Rong
         //Bye bye
         //newly update
+        //blablabla
+        //omg
     }
 }
