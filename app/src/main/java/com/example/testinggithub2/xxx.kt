@@ -10,5 +10,6 @@ class xxx : AppCompatActivity() {
         setContentView(R.layout.activity_xxx)
 
         // Shu Rong here
+        // bye
     }
 }
