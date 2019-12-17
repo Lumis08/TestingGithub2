@@ -10,5 +10,6 @@ class xxx2 : AppCompatActivity() {
         setContentView(R.layout.activity_xxx2)
 
         // William Here
+        // nnn
     }
 }
