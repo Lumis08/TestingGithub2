@@ -12,5 +12,7 @@ class kkk : AppCompatActivity() {
         //There is a wolverine
         //gather all his buddy
         //wto watch the moon
+        //bye
+        //the end ady
     }
 }
