@@ -12,8 +12,7 @@ class kkk : AppCompatActivity(){
         // from
         //Shu Rong
         //Bye bye
-        //newly update
-        //blablabla
-        //omg
-    }
+        //yesss
+        //nooo
+        //111111
 }
